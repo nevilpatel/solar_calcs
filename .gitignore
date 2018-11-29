@@ -1,3 +1,6 @@
+# todo this ide files to ignore should not be here
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
